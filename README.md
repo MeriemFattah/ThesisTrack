@@ -1,6 +1,6 @@
 ## ThesisTrack
 
-The Academic Project Management Platform is a web application designed to manage final year projects of engineering students. It provides a centralized platform for students, project advisors (encadrants), and administrators to collaborate effectively throughout the project lifecycle. Built using modern web technologies such as Spring Boot, Spring MVC, Spring Data, React.js, and Tailwind CSS, the platform offers a seamless user experience.
+The ThesisTrack Platform is a web application designed to manage final year projects of engineering students. It provides a centralized platform for students, project advisors (encadrants), and administrators to collaborate effectively throughout the project lifecycle. Built using modern web technologies such as Spring Boot, Spring MVC, Spring Data, React.js, and Tailwind CSS, the platform offers a seamless user experience.
 
 ## Features
 
