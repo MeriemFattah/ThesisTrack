@@ -26,7 +26,7 @@ Successfully completed projects are archived for future reference. This allows f
 
 ## Getting Started
 
-To run the Academic Project Management Platform locally, follow these steps:
+To run the ThesisTrack Platform locally, follow these steps:
 
 1. Clone the repository:
 git clone https://github.com/MeriemFattah/ThesisTrack
